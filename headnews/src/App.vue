@@ -1,11 +1,10 @@
 <template>
   <div id="app">
-    good good study ,day day up
+   <router-view></router-view>
   </div>
 </template>
 
 <script>
-
 export default {
 }
 </script>
